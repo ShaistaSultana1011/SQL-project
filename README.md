@@ -14,17 +14,17 @@ Evaluate customer preferences based on gender and payment methods
 
 🧠 Key Insights
 
-✅ The City Naypyitaw recorded the highest total revenue, followed by Yangon and then Mandalay ,indicating stronger market performance in that region.
+1. The City Naypyitaw recorded the highest total revenue, followed by Yangon and then Mandalay ,indicating stronger market performance in that region.
 
-✅ Food and Beverages is the top-performing product line and least performing is Health and Beauty.
+2. Food and Beverages is the top-performing product line and least performing is Health and Beauty.
 
-✅Member Customers Contribute the higher revenue and Tax
+3.Member Customers Contribute the higher revenue and Tax
 
-✅ Ewallet is the most used payment methods
+4. Ewallet is the most used payment methods
 
-✅ January is the highest revenye generated month as compared to other months.
+ 5.January is the highest revenye generated month as compared to other months.
 
- Recommendations
+ ✅Recommendations
 
 1.Leverage Naypyitaw’s Strong Market Performance
 
